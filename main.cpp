@@ -14,7 +14,7 @@ Vectors_Challenge_2
 
 using namespace std;
 
-bool randVisable = true; // This allows you to have the option to add in some random grades
+bool randVisable = false; // This allows you to have the option to add in some random grades
 int amountofRand = 10; // This will set the amount of random grades
 
 
